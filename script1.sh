@@ -1,1 +1,1 @@
-pwd
+sudo pwd
